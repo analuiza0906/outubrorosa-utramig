@@ -1,11 +1,11 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 13/10/2025
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
  outubroRosa: vetor[1..8] de caractere
  respostaRosa: vetor[1..8] de caractere
  respostAaleatoria: vetor [1..8] de caractere
@@ -48,7 +48,7 @@ Var
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    outubrorosa[1] <- "Oque e o outubro rosa?"
    outubrorosa[2] <- "quando surgiu o movimento outubro rosa?"
    outubrorosa[3] <- "qual o principal objetivo do outubro rosa?"
@@ -60,15 +60,27 @@ Inicio
 
    exibePergunta()
    
-   respostaRosa[1]<- "É uma campanha mundial realizada em outubro para conscientizar sobre a prevenção e o diagnóstico precoce do câncer de mama."
-   respostaRosa[2]<- "O movimento começou nos Estados Unidos, na década de 1990, e depois se espalhou para vários países, incluindo o Brasil."
-   respostaRosa[3]<- "O objetivo é alertar as mulheres sobre a importância do autoexame, da mamografia e do cuidado com a saúde das mamas."
-   respostaRosa[4]<- "Porque o rosa simboliza o universo feminino e está associado à delicadeza, à prevenção e à esperança."
-   respostaRosa[5]<- "Autoexame das mamas, consultas médicas regulares, mamografia e hábitos saudáveis como alimentação equilibrada e prática de exercícios."
-   respostaRosa[6]<- "Não. Homens também podem desenvolver a doença, embora em casos bem mais raros."
-   respostaRosa[7]<- "Carocinhos nas mamas, alterações na pele, secreção pelo mamilo ou mudança no formato do seio."
-   respostaRosa[8]<- "Usando roupas ou laços rosas, participando de campanhas e eventos de conscientização, e divulgando informações sobre prevenção."
-   
+   respostaRosa[1]<- "Ã‰ uma campanha mundial realizada em outubro para conscientizar sobre a prevenÃ§Ã£o e o diagnÃ³stico precoce do cÃ¢ncer de mama."
+   respostaRosa[2]<- "O movimento comeÃ§ou nos Estados Unidos, na dÃ©cada de 1990, e depois se espalhou para vÃ¡rios paÃ­ses, incluindo o Brasil."
+   respostaRosa[3]<- "O objetivo Ã© alertar as mulheres sobre a importÃ¢ncia do autoexame, da mamografia e do cuidado com a saÃºde das mamas."
+   respostaRosa[4]<- "Porque o rosa simboliza o universo feminino e estÃ¡ associado Ã  delicadeza, Ã  prevenÃ§Ã£o e Ã  esperanÃ§a."
+   respostaRosa[5]<- "Autoexame das mamas, consultas mÃ©dicas regulares, mamografia e hÃ¡bitos saudÃ¡veis como alimentaÃ§Ã£o equilibrada e prÃ¡tica de exercÃ­cios."
+   respostaRosa[6]<- "NÃ£o. Homens tambÃ©m podem desenvolver a doenÃ§a, embora em casos bem mais raros."
+   respostaRosa[7]<- "Carocinhos nas mamas, alteraÃ§Ãµes na pele, secreÃ§Ã£o pelo mamilo ou mudanÃ§a no formato do seio."
+   respostaRosa[8]<- "Usando roupas ou laÃ§os rosas, participando de campanhas e eventos de conscientizaÃ§Ã£o, e divulgando informaÃ§Ãµes sobre prevenÃ§Ã£o."
+   respostaRosa[9]<-
+   respostaRosa[10]<-
+   respostaRosa[11]<-
+   respostaRosa[12]<-
+   respostaRosa[13]<-
+   respostaRosa[14]<-
+   respostaRosa[15]<-
+   respostaRosa[16]<-
+   respostaRosa[17]<-
+   respostaRosa[18]<-
+   respostaRosa[19]<-
+   respostaRosa[20]<-
+
    exibeResposta ()
    
    respostaAleatoria[1] <- "um mes dedicado a primavera"
@@ -82,3 +94,4 @@ Inicio
    
     exiberespostaAleatoria ()
 Fimalgoritmo
+
