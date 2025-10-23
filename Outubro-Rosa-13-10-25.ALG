@@ -68,18 +68,7 @@ Inicio
    respostaRosa[6]<- "Não. Homens também podem desenvolver a doença, embora em casos bem mais raros."
    respostaRosa[7]<- "Carocinhos nas mamas, alterações na pele, secreção pelo mamilo ou mudança no formato do seio."
    respostaRosa[8]<- "Usando roupas ou laços rosas, participando de campanhas e eventos de conscientização, e divulgando informações sobre prevenção."
-   respostaRosa[9]<-
-   respostaRosa[10]<-
-   respostaRosa[11]<-
-   respostaRosa[12]<-
-   respostaRosa[13]<-
-   respostaRosa[14]<-
-   respostaRosa[15]<-
-   respostaRosa[16]<-
-   respostaRosa[17]<-
-   respostaRosa[18]<-
-   respostaRosa[19]<-
-   respostaRosa[20]<-
+  
 
    exibeResposta ()
    
@@ -91,7 +80,20 @@ Inicio
    respostaAleatoria[1] <- "nao ir ao medico"
    respostaAleatoria[1] <- "apenas idosos"
    respostaAleatoria[1] <- "tosse e dor de garganta"
-   
+   respostaAleatoria[1] <-"Outubro Rosa é quando todas as rosas do mundo ficam cor-de-rosa por decreto."
+   respostaAleatoria[1] <-"É um feriado nacional em que se troca o nome do mês para 'Mês das Rosas'."
+   respostaAleatoria[1] <-"O objetivo oficial é ensinar todo mundo a tricotar cachecóis cor-de-rosa para decoração."
+   respostaAleatoria[1] <-"Durante Outubro Rosa, a lua cheia fica rosa e isso cura qualquer doença."
+   respostaAleatoria[1] <-"Só comemoram o Outubro Rosa os países onde rosas crescem naturalmente."
+   respostaAleatoria[1] <-"A campanha treina rosas para farejar doenças e dar alertas."
+   respostaAleatoria[1] <-"É uma campanha exclusiva para pessoas loiras."
+   respostaAleatoria[1] <-"No mês, todas as ambulâncias são obrigadas a ser pintadas de rosa."
+   respostaAleatoria[1] <-"A cor oficial do Outubro Rosa é, na verdade, púrpura — rosa foi um engano tipográfico."
+   respostaAleatoria[1] <-"O símbolo oficial é um chapéu de festa, não o laço rosa."
+   respostaAleatoria[1] <-"Participantes devem falar apenas em rimas durante todo o mês."
+   respostaAleatoria[1] <-"O objetivo real é negociar queda no preço de bijuterias cor-de-rosa."
+
     exiberespostaAleatoria ()
 Fimalgoritmo
+
 
