@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "outubro_rosa"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
@@ -12,8 +12,8 @@ Var
  
  procedimento exibePergunta()
 
- var
- i : inteiro
+  var
+  i : inteiro
 
   inicio
     para i de 1 ate 8 faca
@@ -24,27 +24,27 @@ Var
 
   procedimento exiberesposta()
 
- var
- i : inteiro
+    var
+    i : inteiro
 
-  inicio
-    para i de 1 ate 8 faca
-      escreval(i, ".", respostaRosa[i])
-    fimpara
+   inicio
+     para i de 1 ate 8 faca
+       escreval(i, ".", respostaRosa[i])
+     fimpara
 
- fimprocedimento
+  fimprocedimento
  
    procedimento exiberespostaAleatoria()
 
- var
- i : inteiro
+     var
+     i : inteiro
 
-  inicio
-    para i de 1 ate 8 faca
+     inicio
+     para i de 1 ate 8 faca
       escreval(i, ".", respostaAleatoria [i])
-    fimpara
+     fimpara
 
- fimprocedimento
+  fimprocedimento
 
 
 Inicio
@@ -95,5 +95,6 @@ Inicio
 
     exiberespostaAleatoria ()
 Fimalgoritmo
+
 
 
