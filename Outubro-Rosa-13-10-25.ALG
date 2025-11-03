@@ -74,27 +74,28 @@ Inicio
    
    respostaAleatoria[1] <- "um mes dedicado a primavera"
    respostaAleatoria[2] <- "um evento exportivo"
-   respostaAleatoria[1] <- "feriado nacional"
-   respostaAleatoria[1] <- "promover a moda de cor de rosa"
-   respostaAleatoria[1] <- "porque representa o amor"
-   respostaAleatoria[1] <- "nao ir ao medico"
-   respostaAleatoria[1] <- "apenas idosos"
-   respostaAleatoria[1] <- "tosse e dor de garganta"
-   respostaAleatoria[1] <-"Outubro Rosa é quando todas as rosas do mundo ficam cor-de-rosa por decreto."
-   respostaAleatoria[1] <-"É um feriado nacional em que se troca o nome do mês para 'Mês das Rosas'."
-   respostaAleatoria[1] <-"O objetivo oficial é ensinar todo mundo a tricotar cachecóis cor-de-rosa para decoração."
-   respostaAleatoria[1] <-"Durante Outubro Rosa, a lua cheia fica rosa e isso cura qualquer doença."
-   respostaAleatoria[1] <-"Só comemoram o Outubro Rosa os países onde rosas crescem naturalmente."
-   respostaAleatoria[1] <-"A campanha treina rosas para farejar doenças e dar alertas."
-   respostaAleatoria[1] <-"É uma campanha exclusiva para pessoas loiras."
-   respostaAleatoria[1] <-"No mês, todas as ambulâncias são obrigadas a ser pintadas de rosa."
-   respostaAleatoria[1] <-"A cor oficial do Outubro Rosa é, na verdade, púrpura — rosa foi um engano tipográfico."
-   respostaAleatoria[1] <-"O símbolo oficial é um chapéu de festa, não o laço rosa."
-   respostaAleatoria[1] <-"Participantes devem falar apenas em rimas durante todo o mês."
-   respostaAleatoria[1] <-"O objetivo real é negociar queda no preço de bijuterias cor-de-rosa."
+   respostaAleatoria[3] <- "feriado nacional"
+   respostaAleatoria[4] <- "promover a moda de cor de rosa"
+   respostaAleatoria[5] <- "porque representa o amor"
+   respostaAleatoria[6] <- "nao ir ao medico"
+   respostaAleatoria[7] <- "apenas idosos"
+   respostaAleatoria[8] <- "tosse e dor de garganta"
+   respostaAleatoria[9] <-"Outubro Rosa é quando todas as rosas do mundo ficam cor-de-rosa por decreto."
+   respostaAleatoria[10] <-"É um feriado nacional em que se troca o nome do mês para 'Mês das Rosas'."
+   respostaAleatoria[11] <-"O objetivo oficial é ensinar todo mundo a tricotar cachecóis cor-de-rosa para decoração."
+   respostaAleatoria[12] <-"Durante Outubro Rosa, a lua cheia fica rosa e isso cura qualquer doença."
+   respostaAleatoria[13] <-"Só comemoram o Outubro Rosa os países onde rosas crescem naturalmente."
+   respostaAleatoria[14] <-"A campanha treina rosas para farejar doenças e dar alertas."
+   respostaAleatoria[15] <-"É uma campanha exclusiva para pessoas loiras."
+   respostaAleatoria[16] <-"No mês, todas as ambulâncias são obrigadas a ser pintadas de rosa."
+   respostaAleatoria[17] <-"A cor oficial do Outubro Rosa é, na verdade, púrpura — rosa foi um engano tipográfico."
+   respostaAleatoria[18] <-"O símbolo oficial é um chapéu de festa, não o laço rosa."
+   respostaAleatoria[19] <-"Participantes devem falar apenas em rimas durante todo o mês."
+   respostaAleatoria[20] <-"O objetivo real é negociar queda no preço de bijuterias cor-de-rosa."
 
     exiberespostaAleatoria ()
 Fimalgoritmo
+
 
 
 
